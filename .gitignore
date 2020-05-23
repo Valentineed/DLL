@@ -1,0 +1,17 @@
+*.tlog
+*.log
+*.exe
+*.lastbuildstate
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.pdb
+*.pch
+
+build/
+
+**/glm/doc
+
+
+.vs/
